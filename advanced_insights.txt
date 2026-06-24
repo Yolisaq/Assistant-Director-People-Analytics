@@ -1,0 +1,7 @@
+Advanced Insights:
+1. Cost of Absenteeism: Estimate financial impact using salary data; absenteeism drives overtime costs.
+2. Productivity Impact: Delayed leave capture reduces planning accuracy and causes service bottlenecks.
+3. Departmental Benchmarking: Certain job titles show consistently higher leave utilisation.
+4. Seasonality Analysis: Sick leave peaks in winter; annual leave clusters in December.
+5. Predictive Modelling: Age and tenure predict leave utilisation; forecasting enables proactive planning.
+6. Equity & Inclusion: Female employees show higher utilisation due to maternity/family responsibility leave.

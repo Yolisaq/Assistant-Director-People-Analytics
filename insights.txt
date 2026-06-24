@@ -1,0 +1,5 @@
+Insights:
+- Sick leave dominates overall utilisation.
+- Leave usage shows seasonal peaks (winter months).
+- Certain job titles show higher leave usage.
+- Age group 30–49 years has highest leave utilisation.
